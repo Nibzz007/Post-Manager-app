@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827280665740",
+    "project_id": "post-manager-app-287ee",
+    "storage_bucket": "post-manager-app-287ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827280665740:android:ee52d2f717c550bd4e5fa9",
+        "android_client_info": {
+          "package_name": "com.example.post_manager_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsQPVlBb5TZa-knsZFxaN4rkiyb9AQ6lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
