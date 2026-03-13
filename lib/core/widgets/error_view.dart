@@ -31,7 +31,7 @@ class ErrorView extends StatelessWidget {
             Icon(
               Icons.error_outline_rounded,
               size: AppSizing.iconXl,
-              color: colorScheme.error.withOpacity(0.8),
+              color: colorScheme.error.withValues(alpha: 0.8),
             ),
             const SizedBox(height: AppSizing.spaceXl),
             Text(
