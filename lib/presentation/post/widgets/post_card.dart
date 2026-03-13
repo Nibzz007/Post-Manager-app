@@ -81,7 +81,7 @@ class _IdBadge extends StatelessWidget {
         vertical: AppSizing.spaceXs,
       ),
       decoration: BoxDecoration(
-        color: colorScheme.primaryContainer.withOpacity(0.6),
+        color: colorScheme.primaryContainer.withValues(alpha: 0.6),
         borderRadius: AppRadii.badge,
       ),
       child: Text(
