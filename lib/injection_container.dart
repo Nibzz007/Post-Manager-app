@@ -2,9 +2,9 @@ import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 import 'package:post_manager_app/core/database/database_helper.dart';
 import 'package:post_manager_app/core/network/dio_client.dart';
-import 'package:post_manager_app/data/post_repository_impl.dart';
-import 'package:post_manager_app/domain/post_repository.dart';
-import 'package:post_manager_app/presentation/bloc/post_bloc.dart';
+import 'package:post_manager_app/data/repositories/post_repository_impl.dart';
+import 'package:post_manager_app/domain/repositories/post_repository.dart';
+import 'package:post_manager_app/presentation/post/bloc/post_bloc.dart';
 
 final sl = GetIt.instance;
 
